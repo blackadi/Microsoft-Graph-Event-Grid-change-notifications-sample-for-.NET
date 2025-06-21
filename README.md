@@ -1,6 +1,6 @@
 # Microsoft Graph Event Grid change notifications sample for .NET
 
-[![dotnet build](https://github.com/microsoftgraph/msgraph-sample-eventgrid-notifications-dotnet/actions/workflows/dotnet.yml/badge.svg)](https://github.com/microsoftgraph/msgraph-sample-eventgrid-notifications-dotnet/actions/workflows/dotnet.yml) ![License.](https://img.shields.io/badge/license-MIT-green.svg)
+[![dotnet build](https://github.com/microsoftgraph/msgraph-sample-eventgrid-notifications-dotnet/actions/workflows/dotnet.yml/badge.svg)](https://github.com/blackadi/Microsoft-Graph-Event-Grid-change-notifications-sample-for-.NET/actions/workflows/dotnet.yml) ![License.](https://img.shields.io/badge/license-MIT-green.svg)
 
 Subscribe for [Microsoft Graph change notifications](https://learn.microsoft.com/graph/api/resources/webhooks) to be notified when your group member data changes, so you don't have to poll for changes.
 
